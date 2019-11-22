@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/MALIAISMAEL_PRINCIPAL.unity
+    guid: f6b59ff2d30b9454aaa9827715237929
   m_configObjects: {}
