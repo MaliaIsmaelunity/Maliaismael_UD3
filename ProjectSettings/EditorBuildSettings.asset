@@ -11,7 +11,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/MALIAISMAELPRINCIPALTOUCH_UD3.unity
     guid: bc086193c46e70b4a8281797c6ec8dc7
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/IML_Intro_Vuforia.unity
     guid: a17a9f3ba3539254ca57016571e744a0
+  - enabled: 1
+    path: Assets/Scenes/ai_dialogue.unity
+    guid: bdfe606cb10f4b74e8a90ae676a9dd32
   m_configObjects: {}

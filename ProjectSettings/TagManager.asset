@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Suma1
   - Suma2
+  - Interactable
   layers:
   - Default
   - TransparentFX
